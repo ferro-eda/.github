@@ -10,7 +10,7 @@ FerroEDA is building a modern, crash-free semiconductor design suite written in 
 
 | Tool | Focus | Status | Compatibility |
 | :--- | :--- | :--- | :--- |
-| **[FerroSchem](https://github.com/ferro-eda/ferroschem)** | Schematic capture & netlisting | In Active Development | xschem (`.sch` / `.sym`), SPICE, Verilog |
+| **[FerroSchem](https://github.com/ferro-eda/ferroschem)** | Schematic capture & netlisting | In Active Development (M1 Complete) | Native `.fsch`/`.fsym`, xschem (`.sch`/`.sym`), SPICE, Verilog |
 | **[FerroLayout](https://github.com/ferro-eda/ferrolayout)** | Physical IC layout & verification | Planned | Magic (real-time DRC) + KLayout (GDSII/OASIS) |
 | **FerroWave** | Waveform viewer | Roadmap | VCD, FST, raw SPICE data |
 
@@ -25,6 +25,8 @@ FerroEDA is building a modern, crash-free semiconductor design suite written in 
 
 ---
 
-## License
+## License & Brand
 
-All core FerroEDA tools are licensed under [GPL-3.0-or-later](https://www.gnu.org/licenses/gpl-3.0.html).
+All core FerroEDA tools are open-source under [GPL-3.0-or-later](https://www.gnu.org/licenses/gpl-3.0.html), supplemented by GNU GPLv3 Section 7 attribution, modified-fork marking, and trademark terms ([`NOTICE`](https://github.com/ferro-eda/.github/blob/main/NOTICE)).
+
+The **FerroEDA**, **FerroSchem**, **FerroLayout**, and **FerroWave** names, `ferroeda.org` domain, logos, and official brand assets are reserved brand marks — see our [Brand & Trademark Policy](https://github.com/ferro-eda/.github/blob/main/TRADEMARK.md).

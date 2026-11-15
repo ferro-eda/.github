@@ -1,0 +1,50 @@
+FerroEDA Suite
+Copyright (C) 2026 FerroEDA Contributors
+
+Core FerroEDA tools and repositories are licensed under the GNU General Public License, Version 3.0
+or later (`GPL-3.0-or-later`).
+
+## Additional Terms under GNU GPLv3 Section 7
+
+In accordance with Section 7 of the GNU General Public License, Version 3.0, the following
+additional terms supplement the terms of that license for software and documentation published under
+the FerroEDA organization:
+
+1. **Warranty & Liability Disclaimer (Section 7(a)):**
+   As stated in Sections 15 and 16 of the GNU GPLv3, FerroEDA software is provided "AS IS" without
+   warranty of any kind. Circuit schematics, symbol geometries, IC layouts, DRC/LVS outputs,
+   netlists, simulation setups, and AI-assisted edits can contain errors and must be independently
+   verified by a qualified engineer before any fabrication, tapeout, manufacturing, hardware, or
+   safety-critical use.
+
+2. **Preservation of Legal Notices & Attribution (Sections 5(d) & 7(b)):**
+   Any redistributed copy or modified version must preserve all copyright headers, `LICENSE`,
+   repository `NOTICE` files, and `ATTRIBUTION.md`. Interactive user interfaces (`About` dialogs)
+   and CLI `--version` / legal notices must retain Appropriate Legal Notices required by GPLv3
+   Section 5(d), and modified forks must display a clear attribution such as:
+   `"Based on FerroEDA / <Project> (https://github.com/ferro-eda)"`.
+
+3. **Marking of Modified Versions & Origin (Section 7(c)):**
+   Any modified version or fork conveyed or made available to others must be marked in a reasonable
+   and prominent way as different from the official FerroEDA release (for example, by changing the
+   application name, version identifier, and release notes), so recipients are not misled into
+   believing a modified version is an official release from FerroEDA.
+
+4. **No Endorsement or Publicity Use (Section 7(d)):**
+   Neither `FerroEDA`, `FerroSchem`, `FerroLayout`, `FerroWave`, nor the names of any FerroEDA
+   maintainers or contributors may be used to endorse or promote products, forks, or services derived
+   from this software without prior written permission.
+
+5. **Reservation of Trademark & Brand Rights (Section 7(e)):**
+   The source code license does not grant any rights under trademark law to use the trade names,
+   trademarks, service marks, domains (`ferroeda.org`), logos, wordmarks, or application icons of
+   `FerroEDA`, `FerroSchem`, `FerroLayout`, or `FerroWave` (including assets placed under
+   `assets/branding/`). See `TRADEMARK.md` for details on allowed nominative use and mandatory fork
+   rebranding.
+
+## Independence & Compatibility Disclaimer
+
+FerroEDA repositories are independent open-source projects and are not affiliated with, sponsored
+by, or endorsed by external EDA or CAD tool authors or commercial vendors. References to external
+formats or tools (such as `.sch`/`.sym`, SPICE, Verilog, GDSII, or OASIS compatibility) are purely
+nominative.
